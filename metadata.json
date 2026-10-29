@@ -1,0 +1,6 @@
+{
+  "name": "KedaiPOS - Sistem Kasir & Manajemen Kafe Terintegrasi",
+  "description": "Sistem POS Kasir, Kitchen Display (KDS), Manajemen Meja, dan Dashboard Real-Time untuk Kedai Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
